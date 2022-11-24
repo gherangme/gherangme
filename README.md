@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 <h2 align="center">🎈 GitHub Stats 🎈</h2>
 <br>
 <div align=center>
@@ -23,3 +24,4 @@ Here are some ideas to get you started:
   <a href="#" title="gherangme">
     <img align="right" width="440" src="https://github-readme-stats.vercel.app/api?username=gherangme&show_icons=true&theme=tokyonight" />
   </a>
+-->
