@@ -25,6 +25,6 @@ After that, with the aim of being a Java Back-end Developer, I enjoy spending my
 <p> 
 
 <div align="center">
-  Thanks for watching my profile! Have a nice day!<br>
+  😎 Thanks for watching my profile! Have a nice day! 😎<br>
   &copy; 2023 Hung Pham gherangme
 </div>
