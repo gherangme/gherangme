@@ -1,6 +1,6 @@
 ## 👋 Hi there
 About me:
-- :credit_card: My full name is **Phạm Ngọc Hùng**. <img src="https://media.giphy.com/media/FcFGtKKzKpWso/giphy.gif" width="420" align="right"/>
+- :credit_card: My full name is **Phạm Ngọc Hùng**. <img src="https://media.giphy.com/media/FcFGtKKzKpWso/giphy.gif" width="350" align="right"/>
 I graduated from the **Ton Duc Thang University** with a Bachelor's degree, **Automation and Control Engineering - Electronics**. 
 After that, with the aim of being a **Java Back-end Developer**, I enjoy spending my time learning **Back-end technology**, use **Spring framework** as my major and many technical-related. Throughout this time, I mainly focus on learning, practicing and improving my skill. 
 <!-- Recently, I got certificate from **Cybersoft** about **Java Servlet** and **Spring Framework Specialization**: Spring - Ecosystem and Core Spring MVC, Spring Boot and Rest Controllers, Spring Data Repositories.
